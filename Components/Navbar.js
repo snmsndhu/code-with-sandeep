@@ -2,7 +2,7 @@ function Navbar() {
   return (
     <div>
       <div>
-        <img></img>
+        <h1>Sandeep Singh</h1>
       </div>
       <div>
         <ul>
